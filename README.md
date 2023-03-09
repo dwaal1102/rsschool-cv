@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/dwaal1102/rsschool-cv/blob/gh-pages/cv.md
+https://dwaal1102.github.io/rsschool-cv/cv
